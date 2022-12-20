@@ -1,0 +1,195 @@
+.contenedor-icon p {
+  
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'arial' !important; 
+    
+    
+}
+
+.contenedor-icon svg{
+    width: 60px;
+    height: 40px;
+    
+}
+
+.logo p {
+
+    color: #000000;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'montserrat';    
+    letter-spacing: -1.5px;
+
+}
+
+.body {
+    font-family: 'montserrat';
+    font-weight: 900;
+
+}
+.bg-candy {
+    background-color: #00aee6;
+}
+.p {
+    font-family: 'montserrat'!important;
+    
+}
+
+.bg-bosch {
+    
+background: linear-gradient(to right,#005691 10%,#008ecf 90%);
+
+}
+
+.bg-electrolux {
+    background-color: #041e50;
+}
+
+
+.bg-ariston {
+    background-color: #c41230;
+}
+
+.bg-siam {
+    background-color: #0c4772;
+}
+
+
+.card img{
+    height: auto;
+}
+
+.bg-longvie {
+    background-color: #3d3d3d;
+    
+}
+
+.botonlg {
+    color: #a50034!;
+}
+
+.bg-gafa {
+    background-color: #ff8200;
+}
+
+.bg-philco {
+    background-color: #244981;
+}
+
+.bg-lg {
+    background-color: #a50034;
+}
+
+.lg-num {
+    color: #000000!important;
+}
+
+
+.card-title {
+    font-weight: bold;
+}
+
+.strong {
+    font-weight: 500;
+    font-size: 29px;
+}
+
+
+.btn-outline-primary {
+    font-weight: 200;
+    border-width: 0.10mm;
+    color: black;
+}
+
+.afinar {
+    
+    font-family: 'montserrat';
+}
+
+.agrandarp {
+    font-size: 25px;
+}
+
+
+.strongest {
+        font-weight: 900;
+        font-size: 55px;
+        
+}
+
+.agrandar {
+    font-size: 35px;
+}
+
+.boder {
+    border: #000000;
+    
+}
+
+.bg-blue {
+    background-color: #004aad;
+}
+
+.achicar {
+    font-size: 15px;
+}
+
+.h2chica h2 {
+    font-size: 23px;
+}
+
+a {
+    text-decoration: none;
+    color:#004aad;
+}
+
+.bi-check2-all {
+    color: green;
+    font-size: 35px;
+}
+
+@media only screen and (min-width:320px) and (max-width:480px){
+
+    .strongest {
+        font-weight: 900;
+        font-size: 30px;
+        
+        
+    }    
+
+
+    .strong {
+        font-weight: 500;
+        font-size: 25px;
+    }
+
+    .contenedor-icon p {
+  
+        color: #ffffff;
+        font-size: 25px;
+        font-weight: 600;
+        font-family: 'arial' !important; 
+        
+        
+        
+    }
+
+    .contenedor-icon svg{
+        width: 40px;
+        height: 20px;
+        
+    }
+
+    .logopequeÃ±o {
+        height: 50px;
+
+        
+    }
+
+    .blanco {
+        width: 100%;
+    }
+    
+    }
